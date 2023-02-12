@@ -1,4 +1,4 @@
-# Car Price Analysis in the US
+# Car Price in the US Analysis
 ## Overview
 Geely Auto is a Chinese car manufacturing company.
 They planned to join the US market by producing their brand-new cars, with an ambition to compete with both domestic and European car brands
