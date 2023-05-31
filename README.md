@@ -2,6 +2,10 @@
 ## Overview
 Geely Auto is a Chinese car manufacturing company.
 They planned to join the US market by producing their brand-new cars, with an ambition to compete with both domestic and European car brands
+## Technical skills applied
+- Analysis: pandas, numpy
+- Visualization: matplotlib, seaborn
+- Machine Learning: sklearn
 ## Dataset
 The dataset consists of 205 not-null entries, and 27 features as follow:
 - car_ID: car identity number
